@@ -1,8 +1,6 @@
 # LED Cube Code Generator 3D
 [![License badge](https://img.shields.io/hexpm/l/repo_example.svg)](https://github.com/mariugul/LED-Cube-Code-Generator-3D/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mariugul/LED-Cube-Code-Generator-3D)](https://github.com/mariugul/LED-Cube-Code-Generator-3D/commits/master)
-![Stars](https://img.shields.io/github/stars/mariugul/LED-Cube-Code-Generator-3D)
-![Forks](https://img.shields.io/github/forks/mariugul/LED-Cube-Code-Generator-3D)
 ![Issues](https://img.shields.io/github/issues/mariugul/LED-Cube-Code-Generator-3D)
 ---
 
