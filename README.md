@@ -46,7 +46,7 @@ If you want to contribute that's great! Send a pull request and I will review it
 ## Authors
 <a name="Authors"/>
 
-**Marius C. K. Gulbrandsen** 
+[Marius C. K. Gulbrandsen](https://www.mariusck.com/om-meg/) 
 
 ## License
 <a name="License"/>
