@@ -18,8 +18,8 @@ This is an application for generating code for a LED cube. The application is ca
 
 ## Getting Started
 <a name="GettingStarted"/>
-Watch the YouTube tutorials for most clarity:
 
+Watch the YouTube tutorials for most clarity:
 * [Intro]()
 * [Basics]()
 * [Coding]()
@@ -28,6 +28,7 @@ Watch the YouTube tutorials for most clarity:
 
 ### Installing
 <a name="Installing"/>
+
 Download the application from [link]() and follow the install wizard.
 
 ### Hello Cube
@@ -39,12 +40,15 @@ Download the application from [link]() and follow the install wizard.
 
 ## Contributing
 <a name="Contributing"/>
+
 If you want to contribute that's great! Send a pull request and I will review it.
 
 ## Authors
 <a name="Authors"/>
+
 **Marius C. K. Gulbrandsen** 
 
 ## License
 <a name="License"/>
-This project is licensed under the MIT license and is open source. You are free to use this project as you wish as long as you credit the work. See the [LICENSE](https://github.com/mariugul/LED-Cube-Code-Generator-3D/blob/master/LICENSE) file for details.
+
+This project is licensed under the MIT license and is open source. You are free to use this project as you wish as long as you credit the work. See the [LICENSE](LICENSE) file for details.
