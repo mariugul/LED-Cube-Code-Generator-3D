@@ -47,4 +47,4 @@ If you want to contribute that's great! Send a pull request and I will review it
 
 ## License
 <a name="License"/>
-This project is licensed under the GNU license - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT license and is open source. You are free to use this project as you wish as long as you credit the work. See the [LICENSE](LICENSE) file for details.
