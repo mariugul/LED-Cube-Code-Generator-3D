@@ -17,7 +17,7 @@
 ## Introduction
 <a name="Introduction"/>
 
-This is an application for generating code for a LED cube. The application is capable of simulating the LED cube as well as generate the necessary code for programming the LED cube in either Arduino or Embedded C for Atmel chips. Currently, this works for a 4x4x4 LED cube and will eventually include other sizes.
+This is an application for generating code for a LED cube. The application is capable of simulating the LED cube as well as generate the necessary code for programming the LED cube in either Arduino or C with Atmel Studio. Currently, this works for a 4x4x4 LED cube and will eventually include other sizes.
 
 ## Getting Started
 <a name="GettingStarted"/>
